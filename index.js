@@ -17,5 +17,5 @@ else if (randomNumber1 == randomNumber2){
     document.querySelector("h1").innerHTML = "Empate!"
 }
 else{
-    document.querySelector("h1").innerHTML = "⭐Gibatata Ganhou!⭐"
+    document.querySelector("h1").innerHTML = "Player2 Ganhou!"
 }
